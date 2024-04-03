@@ -300,7 +300,7 @@ const styles = StyleSheet.create({
     },
     flatListContainer: {
         width: '90%',
-        height: '46%',
+        height: '53%',
         marginLeft: 20,
         marginBottom: 10,
     },
