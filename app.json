@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "login-ui",
+    "slug": "login-ui",
+    "extra": {
+      "eas": {
+        "projectId": "3304e16f-acb5-4981-b3ea-00b3f9db2f49"
+      }
+    },
+    "android": {
+      "package": "com.kwencyz.loginui",
+      "googleServicesFile": "./google-services.json"
+    },
+    "owner": "kwencyz"
+  }
+}

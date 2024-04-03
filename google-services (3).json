@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "307325988974",
+    "firebase_url": "https://justgo-bd292-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "justgo-bd292",
+    "storage_bucket": "justgo-bd292.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307325988974:android:bfe6bbbe3cda8b0a08f67f",
+        "android_client_info": {
+          "package_name": "com.example.userlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307325988974-djmfn54pph1f4pa0hesndoad1577q6uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZWmOPhQzeolydJfYXR5CWA4r8f2kctBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307325988974-djmfn54pph1f4pa0hesndoad1577q6uk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307325988974:android:feaf4e986da00ecc08f67f",
+        "android_client_info": {
+          "package_name": "com.kwencyz.loginui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307325988974-djmfn54pph1f4pa0hesndoad1577q6uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZWmOPhQzeolydJfYXR5CWA4r8f2kctBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307325988974-djmfn54pph1f4pa0hesndoad1577q6uk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307325988974:android:38944b301d99955108f67f",
+        "android_client_info": {
+          "package_name": "com.teleporter.justgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307325988974-djmfn54pph1f4pa0hesndoad1577q6uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZWmOPhQzeolydJfYXR5CWA4r8f2kctBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307325988974-djmfn54pph1f4pa0hesndoad1577q6uk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
